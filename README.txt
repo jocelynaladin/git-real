@@ -1,1 +1,3 @@
-This code is under free lincense
+here is me readme
+
+and now I can sleep
